@@ -3,7 +3,7 @@ b. Entre más pequeño más rápido
 c.hacer el caso comun mas rapido
 d. Buenos diseños demandan grandes compromisos
 3.
-int x=0; 
+int x =0; 
 int y =8; 
 int z = 1; 
 
